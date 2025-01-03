@@ -82,6 +82,7 @@ _The purpose of the video is to quickly show all the views in a general way. For
 ![image](https://github.com/user-attachments/assets/1226ee01-ae08-4ec1-8349-500e2e125faf)
 
 * **Login page:** View with the login form.
+  
 ![image](https://github.com/user-attachments/assets/ab22c268-980b-4de9-b82f-23f543636a03)
 
 * **Home:** Main view of the application where you can find the allied supermarkets, the products close to being sold, and the recommendations given by the smart feature.
