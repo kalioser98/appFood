@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671144258512",
+    "firebase_url": "https://backfoodloop-default-rtdb.firebaseio.com",
+    "project_id": "backfoodloop",
+    "storage_bucket": "backfoodloop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671144258512:android:39ba79fe88983b33fa27d5",
+        "android_client_info": {
+          "package_name": "com.example.foodloop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671144258512-gbtu8f42bhgvj6ja179qnen3mth2lifc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZVlLt2UgFD_MBOTyXZBRadR5nvJu0FfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671144258512-gbtu8f42bhgvj6ja179qnen3mth2lifc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671144258512-e91us6iqrk7i1o7bumk7fkq2ivaf8o53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodloop.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
